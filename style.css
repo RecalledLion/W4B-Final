@@ -38,9 +38,9 @@ nav{
     z-index: 1;
     background: #333;
     margin: 0 auto;
-    width: calc(100% - 60%);
+    width: 100%;
 }
-.logo{
+.logo img{
     width: 15%;
     float: left;
     text-transform: uppercase;
