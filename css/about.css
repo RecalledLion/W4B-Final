@@ -5,7 +5,7 @@
 }
 body{
     background-image: url("/img/SpongeBob\ Background.jpg");
-    background-size: 100% 100% ;
+    background-size: 100% 100%;
     font-family: Arial, Helvetica, sans-serif;
 }
 .menu-area li a {
@@ -74,10 +74,23 @@ nav:after{
     border: #fff;
     box-sizing: border-box;
     text-align: center;
+    height: 500px;
+    width: 500px;
+    border: solid white;
+    margin: 50px -50px;
 }
 p{
     text-align: center;
     line-height: 1.4em;
-    font-size: 30px;
+    font-size: 25px;
     padding: 0 25px;
 }
+.Container{
+    
+    width: auto;
+    height: auto;
+    margin: 0px 40%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+

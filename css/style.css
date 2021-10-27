@@ -2,7 +2,6 @@
     margin: 0%;
     padding: 0%;
     box-sizing: border-box;
-    background-color: aquamarine;
 }
 .menu-area li a {
     text-decoration: none;
@@ -66,6 +65,11 @@ nav:after{
     top:100%;
     right: 0;
 }
+.Container{
+    width: auto;
+    height: 175vh;
+    background-color: aquamarine;
+}
 h1{
     text-align: center;
     padding-top: 30px;
@@ -108,7 +112,7 @@ h2{
     
 }
 .flip-card-front{
-    background-color: #fff;
+    background-color: aquamarine;
     color: #fff;
     z-index: 1;
 }
@@ -162,4 +166,17 @@ h2{
     margin-top: 0px;
     margin-right: 169px;
     float: right;
+}
+.Footer{
+    background-color: aquamarine;
+    height: 5vh
+}
+.fa-facebook{
+    margin-right: 10px;
+    font-size: 1.8em;
+    float: right;
+}
+.Video{
+    text-align: center;
+    background-color: aquamarine;
 }
