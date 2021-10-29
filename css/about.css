@@ -74,12 +74,15 @@ nav:after{
     border: #fff;
     box-sizing: border-box;
     text-align: center;
-    height: 500px;
+    height: 540px;
     width: 500px;
     border: solid white;
     margin: 50px -50px;
+    
 }
 p{
+    font-style: italic;
+    background-color:cyan ;
     text-align: center;
     line-height: 1.4em;
     font-size: 25px;
